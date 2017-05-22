@@ -1,0 +1,104 @@
+ Bölüm , Taban Puaný 
+
+ Ýngilizce Öðretmenliði , 394.09560 
+ Mütercim-Tercümanlýk (Ýngilizce) , 395.92011 
+ Matematik (Ýngilizce) , 238.81964 
+ Bahçe Bitkileri , - 
+ Bitki Koruma , 228.78690 
+ Fen Bilgisi Öðretmenliði , 259.16387 
+ Fizik (Ýngilizce) , 211.03235 
+ Kimya (Ýngilizce) , 224.42515 
+ Diþ Hekimliði Fakültesi (KKTC Uyruklu) , - 
+ Ka tlý Hayvan Yetiþtiriciliði , - 
+ Tarla Bitkileri , - 
+ Bilgisayar Mühendisliði , 319.63819 
+ Çevre Mühendisliði , - 
+ Gýda Mühendisliði , 260.28242 
+ Makine Mühendisliði , 311.95197  
+ Ýktisat , 267.08787 
+ Ýktisat (ÝÖ) , 242.07477 
+ Ýþletme (ÝÖ) , 235.31683 
+ Maliye , 310.48158 
+ Maliye (ÝÖ) , 282.24725 
+ Sýnýf Öðretmenliði , 367.23194 
+ Kamu Yönetimi , 332.41096 
+ Psikoloji , 419.35765 
+ Sosyoloji (ÝÖ) , 308.89939 
+ Uluslararasý Ýliþkiler , 324.45252 
+ Uluslararasý Ýliþkiler (ÝÖ) , 292.96681 
+ Gazetecilik , 326.77802 
+ Tarih , 337.30854 
+ Tarih (ÝÖ) , 317.88095 
+ Türk Dili ve Edebiyatý , 370.44720 
+ Türk Dili ve Edebiyatý (ÝÖ) , 347.14204 
+ Bilgisayar Programcýlýðý , 238.25957 
+ Bilgisayar Programcýlýðý , 212.66995 
+ Bilgisayar Programcýlýðý (ÝÖ) , 207.88283 
+ Bilgisayar Programcýlýðý (ÝÖ) , 173.81392 
+ Bilgisayar ve Öðretim Teknolojileri Öðretmenliði , 298.91338 
+ Elektrik , 210.30133 
+ Elektrik (ÝÖ) (Bk.371) , 168.19542 
+ Elektronik Teknolojisi , 200.24281 
+ Elektronik Teknolojisi (ÝÖ) (Bk.371) , 170.88964 
+ Ýnþaat Teknolojisi , 244.45774 
+ Makine (ÝÖ) (Bk.371) , 171.97806 
+ Makine, Resim ve Konstrüksiyon , 170.86218 
+ Makine, Resim ve Konstrüksiyon (ÝÖ) , - 
+ Otomotiv Teknolojisi , 199.65046 
+ Otomotiv Teknolojisi , 184.03294 
+ Otomotiv Teknolojisi (ÝÖ) , 205.47331 
+ Otomotiv Teknolojisi (ÝÖ) , 179.74049 
+ Tekstil Teknolojisi , 183.94437 
+ Tekstil Teknolojisi (ÝÖ) (Bk.372) , - 
+ Týbbi Görüntüleme Teknikleri , 318.58475 
+ Aðýz ve Diþ Saðlýðý , 306.39754 
+ Ayakkabý Tasarým ve Üretimi , 190.28739 
+ Deri Teknolojisi , 178.44036 
+ Fizyoterapi ve Rehabilitasyon , 451.21125 
+ Gýda Kalite Kontrolü ve A lizi , 214.48071 
+ Hemþirelik , 364.91641 
+ Ýþ Saðlýðý ve Güvenliði , 268.12525 
+ Kimya Teknolojisi , 204.49809 
+ Aþçýlýk , 333.90884 
+ Aþçýlýk (ÝÖ) , 310.82008 
+ Gastronomi ve Mutfak Sa tlarý , 370.35761 
+ Ýlahiyat , 371.00714 
+ Ýlahiyat (ÝÖ) , 351.65087 
+ Özel Eðitim Öðretmenliði , 399.59688 
+ Grafik Tasarýmý (ÝÖ) (Bk.372) , 256.22418 
+ Ýç Mekan Tasarýmý (ÝÖ) , 266.26220 
+ Kooperatifçilik , 195.91406 
+ Mimari Restorasyon , 275.43402 
+ Moda Tasarýmý , 252.13054 
+ Moda Tasarýmý (ÝÖ) , 220.23564 
+ Okul Öncesi Öðretmenliði , 373.62423 
+ Posta Hizmetleri , 273.34984 
+ Posta Hizmetleri (ÝÖ) , 246.17308 
+ Sosyal Güvenlik , 303.04454 
+ Sosyal Hizmetler , 335.51949 
+ Bahçe Tarýmý , - 
+ Bankacýlýk ve Fi ns , 289.54346 
+ Bankacýlýk ve Fi ns (ÝÖ) , 264.74637 
+ Bankacýlýk ve Sigortacýlýk , 260.97927 
+ Bankacýlýk ve Sigortacýlýk (ÝÖ) , 227.45663 
+ Dýþ Ticaret , 220.27333 
+ Ýþletme Yönetimi , 198.51747 
+ Ýþletme Yönetimi , 211.18198 
+ Ýþletme Yönetimi , 218.39177 
+ Ýþletme Yönetimi (ÝÖ) , 168.55079 
+ Kümes Hayvanlarý Yetiþtiriciliði , - 
+ Lojistik , 237.56586 
+ Muhasebe ve Vergi Uygulamalarý , 228.43875 
+ Muhasebe ve Vergi Uygulamalarý , 215.00833 
+ Muhasebe ve Vergi Uygulamalarý (ÝÖ) , 172.11857 
+ Organik Tarým , - 
+ Ormancýlýk ve Orman Ürünleri , 258.74910 
+ Pazarlama , 241.72671 
+ Pazarlama (ÝÖ) , 220.25440 
+ Peyzaj ve Süs Bitkileri , 197.72711 
+ Týbbi ve Aromatik Bitkiler , 176.57174 
+ Turizm ve Otel Ýþletmeciliði , 196.90550 
+ Turizm ve Otel Ýþletmeciliði , 225.55955 
+ Turizm ve Otel Ýþletmeciliði (ÝÖ) , 180.91013 
+ Uluslararasý Ticaret ve Lojistik , 281.55004 
+ Uluslararasý Ticaret ve Lojistik (ÝÖ) , 259.30746 
